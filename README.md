@@ -1,0 +1,5 @@
+1.	Performed data preprocessing and cleaning on multi-source datasets, including handling missing values, removing duplicates and standardizing regional sales data
+2.	Conducted exploratory data analysis (EDA) to identify sales trends, customer behaviour and product performance across global markets
+3.	Transformed raw data into structured formats using data integration and feature engineering techniques to improve analysis accuracy
+4.	Developed interactive dashboards and visualizations to present key insights on sales performance, promotion effectiveness and customer segmentation
+5.	Delivered data-driven recommendations to optimize pricing strategies, enhance e-commerce growth and support global expansion decisions
